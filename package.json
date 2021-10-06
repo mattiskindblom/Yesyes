@@ -5,6 +5,7 @@
   "main": ".eleventy.js",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "run-all": "^1.0.1",
     "sass": "^1.42.1"
   },
   "devDependencies": {},
